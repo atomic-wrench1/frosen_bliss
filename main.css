@@ -1,22 +1,30 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://drive.google.com/uc?export=view&id=1q51UjbFl5_zUlDQPXKEbCJN70h-p93z7);
 }
+
 
 main img{
     width: 198px;
     height: 304px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Risque', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
     background-color: #CFECF5;
     color: #4FC3F7;
-    
+    font-family: 'Irish Grover';
 }
 
 nav {
     background-color: #FFD073;
     display: flex;
     justify-content: space-between;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto', sans-serif;;
 }
 
 nav a {
@@ -37,4 +45,18 @@ nav a {
     flex-wrap: wrap;
     padding: 15px;
     text-align: center;
+}
+
+footer {
+    background-color: #CFECF5;
+    height: 90px;
+    display: flex;
+    
+}
+
+.our_comp {
+    background-color: #FFD073;
+    display: flex;
+    padding: 10px;
+    
 }
