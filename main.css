@@ -19,6 +19,10 @@ header {
     font-family: 'Irish Grover';
 }
 
+.header h1 {
+    color: #4FC3F7;
+}
+
 nav {
     background-color: #FFD073;
     display: flex;
@@ -55,8 +59,67 @@ footer {
 }
 
 .our_comp {
-    background-color: #FFD073;
+    background-color: #FFE4AF;
     display: flex;
     padding: 10px;
     
+}
+
+.bn {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: #AAAAF2;
+}
+
+.shop {
+     background-color: #FFE4AF;
+    display: flex;
+    padding: 10px;
+    text-align: left;
+}
+
+.ourshops {
+     background-color: #FFE4AF;
+    display: flex;
+    padding: 10px;
+    
+}
+
+.bc {
+     background-color: #FFE4AF;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.bcook {
+     background-color: #FFE4AF;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.bm {
+     background-color: #FFE4AF;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.bl {
+     background-color: #FFE4AF;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
 }
