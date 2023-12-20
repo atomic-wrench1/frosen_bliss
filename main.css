@@ -88,8 +88,8 @@ h1{
 .ourshops {
      background-color: #FFE4AF;
     display: flex;
-    padding: 10px;
-    
+    padding: 50px;
+    border-radius: 10px;
 }
 
 .bc {
@@ -122,4 +122,8 @@ h1{
     margin: 10px;
     border-radius: 10px;
     text-align: center;
+}
+
+.os {
+    text-align: left;
 }
